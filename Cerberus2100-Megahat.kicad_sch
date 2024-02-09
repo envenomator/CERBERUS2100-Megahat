@@ -5,7 +5,10 @@
   (paper "A4")
 
   (title_block
-    (date "mar. 31 mars 2015")
+    (title "Cerberus 2100 MEGA Hat")
+    (date "2024-02-09")
+    (rev "1.0")
+    (company "Jeroen Venema")
   )
 
   (lib_symbols
@@ -1896,7 +1899,7 @@
     (uuid b9434553-4114-49b9-ad31-c77a5e569d15)
   )
 
-  (text "* Indicates a PWM-capable pin" (at 177.8 180.34 0)
+  (text "* Indicates a PWM-capable pin" (at 143.383 195.961 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c364973a-9a67-4667-8185-a3a5c6c6cbdf)
   )
@@ -2809,7 +2812,7 @@
     (property "Reference" "C1" (at 50.8 173.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "C_Polarized" (at 50.8 176.53 0)
+    (property "Value" "10uF" (at 50.8 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (at 47.9552 179.07 0)
